@@ -94,3 +94,10 @@ img {
 .top-3-news-part:last-child {
     border-right: 0;
 }
+.logo {
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
