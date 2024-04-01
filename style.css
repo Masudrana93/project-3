@@ -91,3 +91,6 @@ img {
     color: blue;
     transition: all 0.5s;
 }
+.top-3-news-part:last-child {
+    border-right: 0;
+}
